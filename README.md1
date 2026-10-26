@@ -1,0 +1,19 @@
+  Tugas Praktik 1 IF104_1001260025
+
+
+NIM:1001260025
+Domain Kasus: Kafe("Menu0025")
+Nilai Dasar: 25 x 1.000 = 25.000 ("Harga")
+
+
+
+
+Daftar Folder
+
+TugasPraktik1/
+├── src/
+│   ├── java/
+│   │   └── Main.java
+│   └── cpp/
+│       └── main.cpp
+└── README.md
